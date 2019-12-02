@@ -6,7 +6,7 @@
 #include <clickhouse/columns/string.h>
 #include <clickhouse/columns/uuid.h>
 
-#include <contrib/gtest/gtest.h>
+#include <gtest/gtest.h>
 
 using namespace clickhouse;
 
